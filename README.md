@@ -62,3 +62,6 @@ it does not look like another Frankenstein project around my house.
 I can ship it to my parents, tell them to plug one cable into the new-fangled
 doo-hickey and tell them to call their ISP when it has a sad face on it
 (feature not developed yet).
+
+## Another Project
+https://bitbucket.org/dskillin/cloudkey-g2-display/src/main/
