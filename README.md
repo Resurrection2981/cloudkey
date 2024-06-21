@@ -7,6 +7,9 @@ Generation 2 device.
 
 *Note: Delay is slowed down to show fading between screens.*
 
+## Source
+https://fullduplextech.com/turn-unifi-cloud-key-gen-2-into-a-headless-linux-server
+
 ## Installation
 Upgrade to Ubuntu20.04
 https://github.com/jmewing/uckp-gen2
@@ -66,4 +69,4 @@ doo-hickey and tell them to call their ISP when it has a sad face on it
 (feature not developed yet).
 
 ## Another Project
-https://bitbucket.org/dskillin/cloudkey-g2-display/src/main/
+https://bitbucket.org/dskillin/cloudkey-g2-display/
