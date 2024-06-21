@@ -8,6 +8,8 @@ Generation 2 device.
 *Note: Delay is slowed down to show fading between screens.*
 
 ## Installation
+Upgrade to Ubuntu20.04
+https://github.com/jmewing/uckp-gen2
 
 ### Quick Start
 
